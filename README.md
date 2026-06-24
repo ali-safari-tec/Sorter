@@ -1,8 +1,8 @@
-📂 File Organizer
+# 📂 File Organizer
 
 <div align="center">
 
-Organize Files Automatically by Type
+### Organize Files Automatically by Type
 
 A simple C# console application that automatically organizes files inside a selected directory into categorized folders based on their file extensions.
 
@@ -15,13 +15,17 @@ A simple C# console application that automatically organizes files inside a sele
 
 </div>
 
-📖 About
+---
+
+# 📖 About
 
 File Organizer is a console-based utility that helps users organize files within a directory.
 
 The application scans all files in a selected folder, creates a structured directory tree, and automatically moves files into their appropriate categories such as Audio, Images, Videos, Documents, and Compressed files.
 
-✨ Features
+---
+
+# ✨ Features
 
 ✅ Automatic file organization
 
@@ -39,7 +43,9 @@ The application scans all files in a selected folder, creates a structured direc
 
 ✅ Simple console interface
 
-📁 Folder Structure
+---
+
+# 📁 Folder Structure
 
 The application creates the following structure:
 
@@ -60,7 +66,11 @@ File Organizer
         ├── Word
         ├── Excel
         └── Power Point
-📦 Supported File Types
+
+---
+
+# 📦 Supported File Types
+
 Category	Extensions
 Audio	.mp3, .wav, .aac, .flac, .ogg
 Compressed	.zip, .rar, .7z
@@ -84,28 +94,3 @@ Example:
 please enter your folder's location:
 
 D:\Downloads
-📊 Output Report
-
-After processing, the application displays:
-
-Number of audio files moved
-Number of compressed files moved
-Number of documents moved
-Number of images moved
-Number of videos moved
-Total files transferred
-🛡 Error Handling
-
-The application handles common errors such as:
-
-Invalid directory paths
-Missing folders
-Access denied errors
-File transfer conflicts
-Unexpected runtime exceptions
-🛠 Technologies
-Technology	Purpose
-C#	Main programming language
-.NET	Runtime Framework
-System.IO	File and directory operations
-Visual Studio 2022	Development Environment
