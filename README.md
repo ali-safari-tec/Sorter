@@ -49,23 +49,21 @@ The application scans all files in a selected folder, creates a structured direc
 
 The application creates the following structure:
 
-File Organizer
-│
-├── Audio
-├── Compressed
-├── Images
-├── Videos
-└── Documents
-    │
-    ├── PDF
-    ├── Text
-    ├── Others
-    │
-    └── Office
-        │
-        ├── Word
-        ├── Excel
-        └── Power Point
+```text
+📂 File Organizer
+├── 📂 Audio
+├── 📂 Compressed
+├── 📂 Images
+├── 📂 Videos
+└── 📂 Documents
+    ├── 📂 PDF
+    ├── 📂 Text
+    ├── 📂 Others
+    └── 📂 Office
+        ├── 📂 Word
+        ├── 📂 Excel
+        └── 📂 Power Point
+```
 
 ---
 
