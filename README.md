@@ -8,10 +8,9 @@ A simple C# console application that automatically organizes files inside a sele
 
 <br>
 
-
-
-
-
+![Language](https://img.shields.io/badge/Language-C%23-purple?style=flat)
+![Type](https://img.shields.io/badge/Type-Console%20Application-blue?style=flat)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-green?style=flat)
 
 </div>
 
