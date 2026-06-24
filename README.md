@@ -71,18 +71,23 @@ File Organizer
 
 # 📦 Supported File Types
 
-Category	Extensions
-Audio	.mp3, .wav, .aac, .flac, .ogg
-Compressed	.zip, .rar, .7z
-Word	.doc, .docx
-Excel	.xls, .xlsx
-PowerPoint	.ppt, .pptx
-PDF	.pdf
-Text	.txt
-Other Documents	.html, .css, .js, .json, .xml, .xaml, .csv, .rtf, .md
-Images	.jpg, .jpeg, .png, .gif, .bmp, .tiff, .webp, .svg
-Videos	.mp4, .avi, .mov, .wmv, .flv, .mkv, .webm
-🚀 How It Works
+| Category        | Extensions                                            |
+| --------------- | ----------------------------------------------------- |
+| Audio           |	.mp3, .wav, .aac, .flac, .ogg                         |
+| Compressed      |	.zip, .rar, .7z                                       |
+| Word	          | .doc, .docx                                           |
+| Excel           |	.xls, .xlsx                                           |
+| PowerPoint      |	.ppt, .pptx                                           |
+| PDF             |	.pdf                                                  |
+| Text            |	.txt                                                  |
+| Other Documents |	.html, .css, .js, .json, .xml, .xaml, .csv, .rtf, .md |
+| Images          |	.jpg, .jpeg, .png, .gif, .bmp, .tiff, .webp, .svg     |
+| Videos          |	.mp4, .avi, .mov, .wmv, .flv, .mkv, .webm             |
+
+---
+
+# 🚀 How It Works
+
 Run the application.
 Enter the path of the folder you want to organize.
 The application creates a new File Organizer directory.
